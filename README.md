@@ -24,10 +24,3 @@ The study provides insights into the elements of ESG score and highlights the ne
 1. Investigating the weighted subcomponents of ESG performance separately concerning competitors.
 2. Exploring a minimum threshold value as a benchmark for controversial firms to avoid a negative impact on the 'sustainability score'.
 3. Analyzing the impact of ESG metrics on financial performance over a longer time frame.
-
-
-## Appendix
-1. R Code
-2. Visualizations
-3. Ethical Approval Form
-4. Dissertation Checklist
